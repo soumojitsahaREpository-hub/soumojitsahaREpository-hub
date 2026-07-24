@@ -34,3 +34,4 @@ read-only SQL guardrails and automated visualizations.
 
 - LinkedIn: (https://www.linkedin.com/in/soumyajit-saha-68200820a/)
 - Email: (somusaha895@gmail.com)
+- CV (https://github.com/soumojitsahaREpository-hub/soumojitsahaREpository-hub/blob/main/SOUMYAJIT_SAHA_7679954937.pdf)
